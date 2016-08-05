@@ -1,0 +1,585 @@
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_1000KernelWeight_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4403
+With_Phenotypes: 4403
+Null_Likelihood: -3613.144531
+Alt_Likelihood: -2875.306396
+LRT_Stat: 1475.6763
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.231513 0.002033
+Her_K2 0.258299 0.001350
+Intercept 4.1231 0.0694
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_AnthesisSilkingInterval_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -6085.746094
+Alt_Likelihood: -5525.701660
+LRT_Stat: 1120.0889
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.246919 0.001438
+Her_K2 0.251534 0.001040
+Intercept 0.8746 0.0528
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_ap_dta_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4751
+With_Phenotypes: 4751
+Null_Likelihood: -12927.170898
+Alt_Likelihood: -9844.555664
+LRT_Stat: 6165.2305
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.247465 0.001350
+Her_K2 0.250533 0.000979
+Intercept 76.5257 0.0653
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_AverageInternodeLengthBelowEar_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 2105
+With_Phenotypes: 2105
+Null_Likelihood: -3187.770996
+Alt_Likelihood: -2399.791748
+LRT_Stat: 1575.9585
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.307851 0.012298
+Her_K2 0.068749 0.010645
+Intercept 9.7332 0.1261
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_AverageInternodeLength_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -6479.453613
+Alt_Likelihood: -5390.991211
+LRT_Stat: 2176.9248
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.249393 0.001844
+Her_K2 0.249684 0.001307
+Intercept 11.9402 0.0569
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_ChlorophyllA_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: -15294.280273
+Alt_Likelihood: -15371.519531
+LRT_Stat: -154.4785
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.241142 0.001909
+Her_K2 0.253634 0.001455
+Intercept 63.4472 0.0839
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_ChlorophyllB_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: -7844.654297
+Alt_Likelihood: -7916.659668
+LRT_Stat: -144.0107
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.000064 0.002718
+Her_K2 0.362962 0.001066
+Intercept 27.9034 0.0630
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_CobDiameter_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -9509.803711
+Alt_Likelihood: -8850.976562
+LRT_Stat: 1317.6543
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.235057 0.000526
+Her_K2 0.256313 0.000366
+Intercept 27.0776 0.0534
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_DaysToAnthesis_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4416
+With_Phenotypes: 4416
+Null_Likelihood: -11994.063477
+Alt_Likelihood: -9255.120117
+LRT_Stat: 5477.8867
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.244700 0.000826
+Her_K2 0.252337 0.000642
+Intercept 79.0067 0.0661
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_DaysToSilk_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4416
+With_Phenotypes: 4416
+Null_Likelihood: -12209.958008
+Alt_Likelihood: -9358.979492
+LRT_Stat: 5701.9570
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.246256 0.002482
+Her_K2 0.250419 0.001891
+Intercept 80.2868 0.0745
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_dta_peiffer_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -11768.543945
+Alt_Likelihood: -9287.333984
+LRT_Stat: 4962.4199
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.253182 0.001357
+Her_K2 0.246606 0.000970
+Intercept 75.6353 0.0699
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_dts_peiffer_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -12123.052734
+Alt_Likelihood: -10336.355469
+LRT_Stat: 3573.3945
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.242189 0.000407
+Her_K2 0.252648 0.000306
+Intercept 82.4314 0.0403
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_EarHeight_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -17983.978516
+Alt_Likelihood: -16453.986328
+LRT_Stat: 3059.9844
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.253968 0.001404
+Her_K2 0.243762 0.001042
+Intercept 84.4301 0.0822
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_EarRowNumber_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -7949.624512
+Alt_Likelihood: -7037.346680
+LRT_Stat: 1824.5557
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.255996 0.002754
+Her_K2 0.244383 0.001967
+Intercept 25.1457 0.0747
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Fructose_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: 1460.582764
+Alt_Likelihood: 258.819611
+LRT_Stat: -2403.5264
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.136114 0.000291
+Her_K2 0.286073 0.000152
+Intercept 1.3770 0.0656
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Fumarate2_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: 7910.729980
+Alt_Likelihood: 7668.516602
+LRT_Stat: -484.4268
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.204094 0.002994
+Her_K2 0.267219 0.002271
+Intercept 0.0568 0.0968
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Fumarate_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: 7940.682617
+Alt_Likelihood: 7712.389160
+LRT_Stat: -456.5869
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.221984 0.003522
+Her_K2 0.260613 0.002531
+Intercept -0.0116 0.0873
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Glucose_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: -893.341309
+Alt_Likelihood: -2458.167236
+LRT_Stat: -3129.6519
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.243998 0.000292
+Her_K2 0.251207 0.000193
+Intercept 0.6888 0.0855
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Glutamate_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: 6587.632324
+Alt_Likelihood: 6424.697754
+LRT_Stat: -325.8691
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.206871 0.002666
+Her_K2 0.272806 0.001867
+Intercept 0.1417 0.0408
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_HeightAboveEar_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -15643.659180
+Alt_Likelihood: -15051.853516
+LRT_Stat: 1183.6113
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.236801 0.000691
+Her_K2 0.257862 0.000481
+Intercept 79.6867 0.0709
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_HeightPerDay_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: 679.078369
+Alt_Likelihood: 1532.941895
+LRT_Stat: 1707.7271
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.228372 0.001498
+Her_K2 0.262880 0.001116
+Intercept 2.2717 0.0746
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_InternodeLengthAboveEar_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -8250.210938
+Alt_Likelihood: -6777.317383
+LRT_Stat: 2945.7871
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.247804 0.002061
+Her_K2 0.250813 0.001518
+Intercept 13.8779 0.0572
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_LeafAngle_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4351
+With_Phenotypes: 4351
+Null_Likelihood: -72805.835938
+Alt_Likelihood: -73054.164062
+LRT_Stat: -496.6562
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.249091 0.000000
+Her_K2 0.249293 0.000000
+Intercept 3439791.2500 0.0707
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_LeafLength_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4355
+With_Phenotypes: 4355
+Null_Likelihood: -24148.757812
+Alt_Likelihood: -23169.962891
+LRT_Stat: 1957.5898
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.247561 0.001269
+Her_K2 0.250735 0.000924
+Intercept 733.5131 0.0671
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_LeafWidth_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4355
+With_Phenotypes: 4355
+Null_Likelihood: -15988.796875
+Alt_Likelihood: -14898.600586
+LRT_Stat: 2180.3926
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.191865 0.000535
+Her_K2 0.280332 0.000321
+Intercept 93.7520 0.0884
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Malate_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: 5016.695312
+Alt_Likelihood: 5141.848633
+LRT_Stat: 250.3066
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.211722 0.000959
+Her_K2 0.268602 0.000661
+Intercept 0.2759 0.0755
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_MetabolitePC1_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4056
+With_Phenotypes: 4056
+Null_Likelihood: -8015.956543
+Alt_Likelihood: -8114.560547
+LRT_Stat: -197.2080
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.252755 0.003088
+Her_K2 0.247651 0.002121
+Intercept 0.1498 0.0960
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_MetabolitePC2_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4056
+With_Phenotypes: 4056
+Null_Likelihood: -7520.153320
+Alt_Likelihood: -7250.506836
+LRT_Stat: 539.2930
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.248265 0.001288
+Her_K2 0.250765 0.000909
+Intercept 0.6461 0.0963
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Nitrate_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: 13361.015625
+Alt_Likelihood: 13779.024414
+LRT_Stat: 836.0176
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.212807 0.002897
+Her_K2 0.257488 0.001867
+Intercept 0.0501 0.0877
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_NodesAboveEar_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -3508.590332
+Alt_Likelihood: -2639.733643
+LRT_Stat: 1737.7134
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.246758 0.000433
+Her_K2 0.249839 0.000308
+Intercept 5.1138 0.0630
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_NodesToEar_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -6163.210938
+Alt_Likelihood: -4457.994141
+LRT_Stat: 3410.4336
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.253354 0.001807
+Her_K2 0.246389 0.001297
+Intercept 8.6343 0.0716
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_NorthernLeafBlight_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4041
+With_Phenotypes: 4041
+Null_Likelihood: -6234.421875
+Alt_Likelihood: -4747.749512
+LRT_Stat: 2973.3447
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.252124 0.002393
+Her_K2 0.247301 0.001867
+Intercept 3.9983 0.0808
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_PhotoperiodDaysToAnthesis_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4398
+With_Phenotypes: 4398
+Null_Likelihood: -22005.646484
+Alt_Likelihood: -20382.513672
+LRT_Stat: 3246.2656
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.262075 0.000564
+Her_K2 0.235177 0.000430
+Intercept 8.7516 0.0562
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_PhotoperiodDaysToSilk_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4415
+With_Phenotypes: 4415
+Null_Likelihood: -22132.664062
+Alt_Likelihood: -20973.802734
+LRT_Stat: 2317.7227
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.246177 0.000798
+Her_K2 0.250099 0.000589
+Intercept 45.6005 0.0636
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_PlantHeight_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -18683.710938
+Alt_Likelihood: -17587.240234
+LRT_Stat: 2192.9414
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.196895 0.004216
+Her_K2 0.276109 0.002528
+Intercept 167.7401 0.0908
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_RatioEarHeightToPlantHeight_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: 6620.529785
+Alt_Likelihood: 8026.511230
+LRT_Stat: 2811.9629
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.250616 0.000736
+Her_K2 0.246681 0.000524
+Intercept 0.4886 0.0772
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_SouthernLeafBlight_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4411
+With_Phenotypes: 4411
+Null_Likelihood: -5595.511230
+Alt_Likelihood: -5189.510254
+LRT_Stat: 812.0020
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.204036 0.000184
+Her_K2 0.266444 0.000133
+Intercept 6.7989 0.0722
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_StalkStrength_RindPenetrometerResistance_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 3197
+With_Phenotypes: 3197
+Null_Likelihood: -688.375671
+Alt_Likelihood: 755.976318
+LRT_Stat: 2888.7041
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.206534 0.002066
+Her_K2 0.257673 0.001538
+Intercept 5.1842 0.0805
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Starch_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: -318.431183
+Alt_Likelihood: 160.082611
+LRT_Stat: 957.0276
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.173466 0.001920
+Her_K2 0.291320 0.001276
+Intercept 1.0889 0.0782
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_Sucrose_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: -2856.750244
+Alt_Likelihood: -2385.696289
+LRT_Stat: 942.1079
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.127082 0.001333
+Her_K2 0.300205 0.000705
+Intercept 2.3519 0.0762
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_TasselLength_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4415
+With_Phenotypes: 4415
+Null_Likelihood: -22116.875000
+Alt_Likelihood: -21121.363281
+LRT_Stat: 1991.0234
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.246275 0.000985
+Her_K2 0.249690 0.000741
+Intercept 307.5092 0.0711
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_TasselPrimaryBranches_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4414
+With_Phenotypes: 4414
+Null_Likelihood: -11273.797852
+Alt_Likelihood: -10043.598633
+LRT_Stat: 2460.3984
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.246463 0.003410
+Her_K2 0.248556 0.002720
+Intercept 8.8421 0.0801
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_TotalAminoAcids_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: -3512.846191
+Alt_Likelihood: -3182.887695
+LRT_Stat: 659.9170
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.065669 0.005543
+Her_K2 0.343288 0.002712
+Intercept 1.8457 0.0682
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_TotalNodeCount_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4357
+With_Phenotypes: 4357
+Null_Likelihood: -7200.386230
+Alt_Likelihood: -5292.712402
+LRT_Stat: 3815.3477
+LRT_P: 1.0000e-16
+Component Heritability SD
+Her_K1 0.249091 0.001619
+Her_K2 0.249628 0.001168
+Intercept 14.1692 0.0660
+Kins:2 Regions:0
+Blupfile: results/randocluste_2182_results_NAM_TotalProtein_multiblup.txt.indi.blp
+Regfile: none
+Total Samples: 4061
+With_Phenotypes: 4061
+Null_Likelihood: 5055.150391
+Alt_Likelihood: 4956.615723
+LRT_Stat: -197.0693
+LRT_P: 5.0000e-01
+Component Heritability SD
+Her_K1 0.240176 0.002186
+Her_K2 0.254363 0.001690
+Intercept 1.1459 0.0843

@@ -1,0 +1,42 @@
+raw_name	pretty_name
+AA_Res_With_IBM_For_GWAS	Total amino acids
+asiavg	Anthesis-silking interval
+Chla_Res_With_IBM_For_GWAS	Chlorophyll A
+Chlb_Res_With_IBM_For_GWAS	Chlorophyll B
+ehtavg	Ear height
+ehtdivnteavg	Average internode length (below ear)
+ehtdivphtavg	Ratio of ear height to total height
+Fruc_Res_With_IBM_For_GWAS	Fructose
+Fuma_Res_With_IBM_For_GWAS	Fumarate
+Gluc_Res_With_IBM_For_GWAS	Glucose
+Glut_Res_With_IBM_For_GWAS	Glutamate
+Kwt_5loc_residuals	100 Kernel weight
+Mala_Res_With_IBM_For_GWAS	Malate
+Nitr_Res_With_IBM_For_GWAS	Nitrate
+nlb_residuals	Northern Leaf Blight
+nphavg	Nodes per plant
+nteavg	Nodes to ear
+nttavg	Nodes above ear
+phtavg	Plant height
+phtdivdtravg	Height per day (until flowering)
+phtdivnphavg	Average internode length (whole plant)
+ppgddta_pop	Photoperiod growing-degree days to anthesis
+ppgddts_pop	Photoperiod Growing-degree days to silk
+Prot_Res_With_IBM_For_GWAS	Protein
+Residual_boxcox_noIBM	Boxcox-transformed leaf angle
+Residual_leaf_length_noIBM	Leaf length
+Residual_leaf_width_noIBM	Leaf width
+residuals_distancebased_for_d2a	Days to anthesis
+residuals_distancebased_for_d2s	Days to silk
+residuals_distancebased_for_slbv2	Southern leaf blight
+ResPrin1_Res_With_IBM_For_GWAS	PCA of metabolites: PC1
+ResPrin2_Res_With_IBM_For_GWAS	PCA of metabolites: PC2
+rpravg	Stalk strength
+sf_residuals_nopop	Cob diameter
+so_residuals_nopop	Ear row number
+Star_Res_With_IBM_For_GWAS	Starch
+Sucr_Res_With_IBM_For_GWAS	Sucrose
+thtavg	Height above ear
+thtdivnttavg	Average internode length (above ear)
+tassel_length	Tassel length
+tassel_branches	Tassel branch number
