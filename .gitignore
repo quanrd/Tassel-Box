@@ -1,3 +1,5 @@
 *hmp*
 results/
-
+matrices/*
+pos_lists/*
+old_results/

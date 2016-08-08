@@ -13,17 +13,39 @@ class RemlFile(object):
         trait_headers = self.trait_dict.keys()
         return ['Trait'] + sorted(trait_headers)
 
+    def combine(self, other):
+        self.trait_dict.update(other.trait_dict)
+
+    def __eq__(self, other):
+        return self.name == other.name
+
     def __repr__(self):
         return self.name + ' - {}'.format(self.trait_dict)
 
 
+def merge_duplicate_remls(remls):
+    merged = []
+    for i in remls:
+        for j in remls:
+            if i == j:
+                i.combine(j)
+                merged.append(i)
+                del j
+
+    return merged
+
+
 def write_to_csv(remls):
     output_list = []
-    header = ['None']
+    header = []
     file_name = RESULTS_DIR + 'summary/Her_K_results:{}.csv'.format(datetime.datetime.now())
     with open(file_name, 'w') as csvfile:
         for reml in remls:
-            header = reml.get_header()
+            if header:
+                if reml.get_header()[-1] not in header:
+                    header.append(reml.get_header()[-1])
+            else:
+                header = reml.get_header()
 
             output_dict = {'Trait': reml.name}
             for i in xrange(len(reml.trait_dict)):
@@ -31,8 +53,11 @@ def write_to_csv(remls):
                 output_dict[current_her] = reml.trait_dict[current_her]
 
             output_list.append(output_dict)
-
         writer = csv.DictWriter(csvfile, fieldnames=header)
+        # http://stackoverflow.com/questions/9427163/remove-duplicate-dict-in-list-in-python
+        # Remove dup. values (this is disgusting):
+        output_list = [i for n, i in enumerate(output_list) if i not in output_list[n + 1:]]
+
         writer.writeheader()
         [writer.writerow(row) for row in output_list]
         writer.writerow({'Trait': "Generated: {}".format(datetime.datetime.now())})
@@ -46,7 +71,7 @@ def load_remls(bins):
         with open(bin, "r") as remlfile:
             reml_list.append(
                 RemlFile(
-                    name=get_base_name(bin), trait_dict=access_reml_member(remlfile, "Her_", get_base_name(strip_extensions(bin))
+                    name=get_hypo_name(get_base_name(bin)), trait_dict=access_reml_member(remlfile, "Her_", get_base_name(strip_extensions(bin))
                 )))
 
     return reml_list
@@ -79,13 +104,19 @@ def strip_extensions(file_name):
     return file_name[:results]
 
 
+def get_hypo_name(file_name):
+    hyp_start = file_name.find('results_')
+    return file_name[hyp_start + 8:] # +8: Gets rid of _results from the string
+
+
 if __name__ == '__main__':
     RESULTS_DIR = os.path.dirname(os.path.realpath(__file__)) + '/../results/'
     KINSHIP_FILE = os.path.dirname(os.path.realpath(__file__)) + '/../kinship/'
     if 'summary' not in os.listdir(RESULTS_DIR):
         os.system('mkdir {}/summary'.format(RESULTS_DIR))
     bins = set([RESULTS_DIR + bin for bin in os.listdir(RESULTS_DIR) if ".reml" in bin])
-    remls = load_remls(bins)
+    remls = merge_duplicate_remls(load_remls(bins))
+
     write_to_csv(remls)
 
     print "-" * 30

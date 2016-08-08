@@ -1,1 +1,0 @@
-/home/slin63/tassel/Annotations/unified/Tassel-Box/pyscripts/../matrices/gwas_nlb_snp_PositionList
